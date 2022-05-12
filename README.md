@@ -1,5 +1,6 @@
-<img width="250px" align="center" src="./src/Team_exploited_degr.png" alt="TEAM_EXPLO1T3D"></img> # Retos Hacking
+<img width="250px" align="center" src="./src/Team_exploited_degr.png" alt="TEAM_EXPLO1T3D"></img>
 
+# Retos Hacking
 
 Repositorio para guardar y administrar los retos de hacking creados.
 
