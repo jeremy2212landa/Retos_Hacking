@@ -1,0 +1,8 @@
+instrucciones iniciales
+
+El reto consta de dos partes,ambos son lo que llamamos captura la bandera.
+
+*pasos a seguir*
+Descomprime la parte1.zip y ejecuta el archivo .exe hasta que encuentres la primera bandera oculta esta te servirá para abrir el archivo parte2.zip
+
+Una vez resuelto encontraras el resto de las instrucciones para encontrar la última bandera oculta. Este reto tiene dos banderas y solo sera completado si encuentras las dos. RESPUESTAS SOLO AL PRIVADO DE LOS ADMINISTRADORES

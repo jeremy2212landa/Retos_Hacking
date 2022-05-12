@@ -1,4 +1,6 @@
+![TEAM_EXPLO1T3D](./src/Team_exploited_degr.png)
 # Retos_Hacking
+
 
 Repositorio para guardar y administrar los retos de hacking creados.
 
